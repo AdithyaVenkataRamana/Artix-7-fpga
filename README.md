@@ -26,3 +26,30 @@ Artix-7 is popular because it’s both powerful and energy-efficient. It’s com
 12. LED outputs.
 ![Screenshot 2024-11-02 134641](https://github.com/user-attachments/assets/c40614db-9e2d-46b0-abad-58550ab86ece)
 
+### Detalied Features
+1. 32MB of on board SDRAM, enables smooth imlementation of real-time image & video processing tasks.
+2. Ready to use labratory tool.
+3. To design & develop digital circuits of varying complexity, ranging from basic to advanced level.
+4. It provides ease in implementing a wide range of applications without the need for additional interfaces.
+5. Xilinx XC735T-ITTG256 Artix 7 FPGA.
+6. 8MB SPI Flash Memory.
+7. 32MB SDRAM, HDMI Output.
+8. MicroSD Card Slot.
+9. Onboard USB JTAG programmer.
+10. USB to UART interface.
+11. WIFI interface, Low power Bluetooth interface.
+12. 12 - Bit VGA interface.
+13. 8 channel SPI ADC.
+14. Temperature sensor.
+15. LDR interface.
+16. SPI DAC.
+17. 2 * 16 LCD Display.
+18. Four digit 7 Segment display.
+19. 5Volt buzzer.
+20. CMOS Camera interface.
+21. TFT Display interface.
+22. Push buttons.
+23. Stereo Jack.
+24. Reset button.
+25. Slide switches LED's.
+
