@@ -67,3 +67,15 @@ II. SLICE_L.
 #### I.SLICE_M:
 1. SLICE_Ms contain full slices that offer both logic and memory.
 2. They feature Multiplexers & Carry chains.
+![Screenshot 2024-11-02 142158](https://github.com/user-attachments/assets/23fcf47a-e206-4345-9d34-2597c0d2bfdb)
+
+### CLB-MUX
+1. The Artix 7 FPGA can implement the functions with 8inputs using wide function multiplexers.
+#### II.SLICE_L:
+1. SLICE_Ls only contain logic and arithmetic elements and can't be used for memeory.
+2. They also feature wide Multiplexers and Carry chains.
+3. ![Screenshot 2024-11-02 142207](https://github.com/user-attachments/assets/c5d835cc-210e-49e8-8eff-8a430daf7a37)
+
+### CLB-MUX
+1. The Artix 7 FPGA can implement the functions with 8inputs using wide function multiplexers.
+   ![Screenshot 2024-11-02 142244](https://github.com/user-attachments/assets/9ffb7edf-6167-4bc3-b021-6550a3020e21)
