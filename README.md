@@ -7,4 +7,8 @@ Artix-7 is popular because it’s both powerful and energy-efficient. It’s com
 
 ![Screenshot 2024-11-02 132816](https://github.com/user-attachments/assets/3f6f7734-8ba1-48c2-acf3-aea5d1c523ba)
 
+1. It is an upgraded version of the  Sparton 6 board.
+2. It is specially created to work with the latest Vivado design suite.
+3. It is buit with the Xilinx Artix 7 XC7A357 FPGA IC at it's core.
+
 
