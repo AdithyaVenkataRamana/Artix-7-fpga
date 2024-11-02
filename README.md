@@ -56,6 +56,7 @@ Artix-7 is popular because it’s both powerful and energy-efficient. It’s com
 ![Screenshot 2024-11-02 140838](https://github.com/user-attachments/assets/a3f118ad-4f1a-4af7-86f0-cf8b74f8bf2d)
 
 ### Configurable Logic Block(CLB) 7 - Series FPGAs
+![Screenshot 2024-11-02 141644](https://github.com/user-attachments/assets/c3e6cf8c-8981-4145-b325-69e0c94f3d36)
 
 1. The main design resoures are combinational functions  and flipflops.
 2. CLB has two Slices:
