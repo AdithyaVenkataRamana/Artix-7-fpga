@@ -79,3 +79,10 @@ II. SLICE_L.
 ### CLB-MUX
 1. The Artix 7 FPGA can implement the functions with 8inputs using wide function multiplexers.
    ![Screenshot 2024-11-02 142244](https://github.com/user-attachments/assets/9ffb7edf-6167-4bc3-b021-6550a3020e21)
+
+### CLB-LUT
+1. LUTs lookup tables in the CLB's of the Artix 7 FPGA can be the eiher two 5 input LUT's with common input or 6 input LUT. The 5 input LUTs have minimal speed impact & can provide any function of 5 variables.
+2. While the 6 input LUT can produce any functions of 5 variables & can have 1 or 2 outputs.
+
+![Screenshot 2024-11-02 142700](https://github.com/user-attachments/assets/ae13acda-11d1-4111-9199-9a7b19ba4ff6)
+
