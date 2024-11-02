@@ -53,3 +53,16 @@ Artix-7 is popular because it’s both powerful and energy-efficient. It’s com
 24. Reset button.
 25. Slide switches LED's.
 
+![Screenshot 2024-11-02 140838](https://github.com/user-attachments/assets/a3f118ad-4f1a-4af7-86f0-cf8b74f8bf2d)
+
+### Configurable Logic Block(CLB) 7 - Series FPGAs
+
+1. The main design resoures are combinational functions  and flipflops.
+2. CLB has two Slices:
+I. SLICE_M.
+II. SLICE_L.
+
+3. That are linked to the switch matrix to allow for routing to other parts of the FPGA.
+#### I.SLICE_M:
+1. SLICE_Ms contain full slices that offer both logic and memory.
+2. They feature Multiplexers & Carry chains.
