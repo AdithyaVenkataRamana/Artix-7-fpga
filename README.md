@@ -25,3 +25,4 @@ Artix-7 is popular because it’s both powerful and energy-efficient. It’s com
 11. Button inputs.
 12. LED outputs.
 
+![Uploading Screenshot 2024-11-02 134641.png…]()
