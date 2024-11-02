@@ -11,4 +11,17 @@ Artix-7 is popular because it’s both powerful and energy-efficient. It’s com
 2. It is specially created to work with the latest Vivado design suite.
 3. It is buit with the Xilinx Artix 7 XC7A357 FPGA IC at it's core.
 
+## Features
+1. External SDRAM.
+2. HDMI Port.
+3. Micro SD Card.
+4. WIFI & Blutooth module.
+5. ADC & DAC interfaces.
+6. LCD Display.
+7. 7 Segment Display.
+8. Camera interface.
+9. TFT Screen.Buzzer.
+10. Switch.
+11. Button inputs.
+12. LED outputs.
 
