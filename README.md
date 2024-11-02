@@ -24,5 +24,5 @@ Artix-7 is popular because it’s both powerful and energy-efficient. It’s com
 10. Switch.
 11. Button inputs.
 12. LED outputs.
+![Screenshot 2024-11-02 134641](https://github.com/user-attachments/assets/c40614db-9e2d-46b0-abad-58550ab86ece)
 
-![Uploading Screenshot 2024-11-02 134641.png…]()
